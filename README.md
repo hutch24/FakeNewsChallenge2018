@@ -1,6 +1,7 @@
 # Fake News Challenge
 
 D-DS Academy 2018
+https://readymag.com/u53026007/1142232/
 
 ## 목표
 - Fake News를 찾자
